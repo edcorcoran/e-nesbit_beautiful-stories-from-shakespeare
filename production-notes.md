@@ -21,13 +21,7 @@ Sources: title page of the page scans (https://archive.org/details/twentybeautif
 - Quotations: every citation was checked against the plays. Eleven misattributions in the print are corrected. This was done using code written with Claude code.
 - Quotations, “Quarrels”: the print’s typo “these is no true valor” is corrected to “there is”.
 - Quotations: two citations of “Love’s Labor Lost” are made “Love’s Labor’s Lost”, matching the third citation and the play’s title; the American spelling “Labor” is kept.
-- “The Taming of the Shrew”: the plate caption “Petruchio and Katherine” is changed to “Petruchio and Katharine”, the spelling used throughout the story.
 - Pronouncing Vocabulary: “Leodovico” and “Polixines” are corrected to “Lodovico” and “Polixenes”, the spellings used in the stories, and Lodovico’s pronunciation and alphabetical position are adjusted to match.
-
-## Illustrations
-- All 85 illustrations are taken from the Internet Archive scan: 77 pen drawings traced to SVG, and 8 color plates (the frontispiece and seven story plates) deskewed, cropped to the plate edge, and lightly descreened. This was done using code written with Claude code.
-- Figure captions reproduce the captions printed under the illustrations, which occasionally differ from the book’s own List of Illustrations (e.g. “Claudio and Hero”, where the list reads “Claudia”).
-- “The Tempest” opens with a hand-lettered title headpiece (illustration 8). It appears in neither the print’s List of Illustrations nor PG’s transcription; it is included as a figure without a caption and left out of the ebook’s List of Illustrations as a decorative element.
 
 ## Glossary
 - The Pronouncing Vocabulary is marked up as a glossary with a search key map. The terms Cymbeline, Macbeth, Othello, and Pericles would share `id`s with the story files, so their glossary `id`s carry a `-glossary` suffix; the resulting `x-019` lint errors are ignored in `se-lint-ignore.xml`.
