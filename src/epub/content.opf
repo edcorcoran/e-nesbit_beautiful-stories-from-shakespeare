@@ -75,10 +75,10 @@
 		<meta property="role" refines="#editor" scheme="marc:relators">edt</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">wfw</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">wpr</meta>
-		<dc:contributor id="artist">COVER_ARTIST_NAME</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<link href="COVER_ARTIST_WIKI_URL" refines="#artist" rel="schema:sameAs"/>
-		<link href="COVER_ARTIST_NACOAF_URI" refines="#artist" rel="schema:sameAs"/>
+		<dc:contributor id="artist">George Cruikshank</dc:contributor>
+		<meta property="file-as" refines="#artist">Cruikshank, George</meta>
+		<link href="https://en.wikipedia.org/wiki/George_Cruikshank" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n80067117.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Morrie Wilson</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Wilson, Morrie</meta>
