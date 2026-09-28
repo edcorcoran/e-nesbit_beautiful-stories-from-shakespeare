@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">https://standardebooks.org/ebooks/e-nesbit_william-shakespeare/beautiful-stories-from-shakespeare/max-bihn</dc:identifier>
+		<dc:identifier id="uid">https://standardebooks.org/ebooks/e-nesbit_william-shakespeare/beautiful-stories-from-shakespeare</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
@@ -19,7 +19,6 @@
 		<meta id="conformance-statement" property="dcterms:conformsTo">EPUB Accessibility 1.1 - WCAG 2.2 Level AA</meta>
 		<meta property="a11y:certifiedBy" refines="#conformance-statement">Standard Ebooks</meta>
 		<meta property="schema:accessMode">textual</meta>
-		<meta property="schema:accessMode">visual</meta>
 		<meta property="schema:accessModeSufficient">textual</meta>
 		<meta property="schema:accessibilityFeature">alternativeText</meta>
 		<meta property="schema:accessibilityFeature">displayTransformability</meta>
@@ -41,7 +40,7 @@
 		<meta property="schema:abstract">Retellings of Shakespeare’s plays for young readers.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/e-nesbit"&gt;E. Nesbit&lt;/a&gt; was an English writer who published numerous books for children. &lt;i&gt;Beautiful Stories from Shakespeare&lt;/i&gt; is a collection of short prose retellings of twenty of &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare’s&lt;/a&gt; plays. E. Nesbit condensed the stories to ensure they are understood by children and that children will find them entertaining. Some Shakespearean language is retained, but the emphasis is on the story.&lt;/p&gt;
-			&lt;p&gt;The American edition, edited by E. T. Roe, includes a short biography of Shakespeare, a pronunciation guide for names and a list of famous Shakespearean quotations grouped by theme. It also includes illustrations and colored plates by Max Bihn. We have reproduced these illustrations and plates in the Standard Ebooks edition of the book.&lt;/p&gt;
+			&lt;p&gt;The American edition, edited by E. T. Roe, includes a short biography of Shakespeare, a pronunciation guide for names and a list of famous Shakespearean quotations grouped by theme.&lt;/p&gt;
 		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1430</dc:source>
@@ -51,7 +50,7 @@
 		<link href="https://en.wikipedia.org/wiki/Beautiful_Stories_from_Shakespeare" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
-		<link href="https://github.com/standardebooks/e-nesbit_william-shakespeare_beautiful-stories-from-shakespeare_max-bihn" refines="#vcs-repository" rel="schema:codeRepository"/>
+		<link href="https://github.com/standardebooks/e-nesbit_william-shakespeare_beautiful-stories-from-shakespeare" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author-1">E. Nesbit</dc:creator>
 		<meta property="file-as" refines="#author-1">Nesbit, E.</meta>
 		<meta property="schema:alternateName" refines="#author-1">Edith Nesbit Bland</meta>
@@ -63,11 +62,6 @@
 		<link href="https://en.wikipedia.org/wiki/William_Shakespeare" refines="#author-2" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n78095332.html" refines="#author-2" rel="schema:sameAs"/>
 		<meta property="role" refines="#author-2" scheme="marc:relators">aut</meta>
-		<dc:contributor id="illustrator">Max Bihn</dc:contributor>
-		<meta property="file-as" refines="#illustrator">Bihn, Max</meta>
-		<link href="https://id.loc.gov/authorities/names/no2005003790.html" refines="#illustrator" rel="schema:sameAs"/>
-		<meta property="display-seq" refines="#illustrator">1</meta>
-		<meta property="role" refines="#illustrator" scheme="marc:relators">ill</meta>
 		<dc:contributor id="editor">E. T. Roe</dc:contributor>
 		<meta property="file-as" refines="#editor">Roe, E. T.</meta>
 		<meta property="schema:alternateName" refines="#editor">Edward Thomas Roe</meta>
@@ -106,124 +100,37 @@
 		<item href="css/se.css" id="se.css" media-type="text/css"/>
 		<item href="glossary-search-key-map.xml" id="glossary-search-key-map.xml" media-type="application/vnd.epub.search-key-map+xml" properties="glossary search-key-map"/>
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
-		<item href="images/illustration-1.jpg" id="illustration-1.jpg" media-type="image/jpeg"/>
-		<item href="images/illustration-2.jpg" id="illustration-2.jpg" media-type="image/jpeg"/>
-		<item href="images/illustration-3.svg" id="illustration-3.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-4.svg" id="illustration-4.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-5.svg" id="illustration-5.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-6.svg" id="illustration-6.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-7.svg" id="illustration-7.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-8.svg" id="illustration-8.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-9.jpg" id="illustration-9.jpg" media-type="image/jpeg"/>
-		<item href="images/illustration-10.svg" id="illustration-10.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-11.svg" id="illustration-11.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-12.svg" id="illustration-12.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-13.svg" id="illustration-13.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-14.svg" id="illustration-14.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-15.svg" id="illustration-15.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-16.jpg" id="illustration-16.jpg" media-type="image/jpeg"/>
-		<item href="images/illustration-17.svg" id="illustration-17.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-18.svg" id="illustration-18.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-19.svg" id="illustration-19.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-20.svg" id="illustration-20.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-21.svg" id="illustration-21.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-22.svg" id="illustration-22.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-23.svg" id="illustration-23.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-24.svg" id="illustration-24.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-25.svg" id="illustration-25.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-26.svg" id="illustration-26.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-27.svg" id="illustration-27.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-28.svg" id="illustration-28.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-29.svg" id="illustration-29.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-30.svg" id="illustration-30.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-31.svg" id="illustration-31.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-32.jpg" id="illustration-32.jpg" media-type="image/jpeg"/>
-		<item href="images/illustration-33.svg" id="illustration-33.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-34.svg" id="illustration-34.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-35.svg" id="illustration-35.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-36.svg" id="illustration-36.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-37.svg" id="illustration-37.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-38.svg" id="illustration-38.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-39.svg" id="illustration-39.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-40.svg" id="illustration-40.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-41.svg" id="illustration-41.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-42.svg" id="illustration-42.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-43.jpg" id="illustration-43.jpg" media-type="image/jpeg"/>
-		<item href="images/illustration-44.svg" id="illustration-44.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-45.svg" id="illustration-45.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-46.svg" id="illustration-46.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-47.svg" id="illustration-47.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-48.svg" id="illustration-48.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-49.svg" id="illustration-49.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-50.svg" id="illustration-50.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-51.svg" id="illustration-51.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-52.svg" id="illustration-52.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-53.svg" id="illustration-53.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-54.svg" id="illustration-54.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-55.svg" id="illustration-55.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-56.svg" id="illustration-56.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-57.jpg" id="illustration-57.jpg" media-type="image/jpeg"/>
-		<item href="images/illustration-58.svg" id="illustration-58.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-59.svg" id="illustration-59.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-60.svg" id="illustration-60.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-61.svg" id="illustration-61.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-62.svg" id="illustration-62.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-63.svg" id="illustration-63.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-64.svg" id="illustration-64.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-65.svg" id="illustration-65.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-66.svg" id="illustration-66.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-67.svg" id="illustration-67.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-68.svg" id="illustration-68.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-69.svg" id="illustration-69.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-70.svg" id="illustration-70.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-71.jpg" id="illustration-71.jpg" media-type="image/jpeg"/>
-		<item href="images/illustration-72.svg" id="illustration-72.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-73.svg" id="illustration-73.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-74.svg" id="illustration-74.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-75.svg" id="illustration-75.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-76.svg" id="illustration-76.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-77.svg" id="illustration-77.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-78.svg" id="illustration-78.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-79.svg" id="illustration-79.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-80.svg" id="illustration-80.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-81.svg" id="illustration-81.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-82.svg" id="illustration-82.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-83.svg" id="illustration-83.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-84.svg" id="illustration-84.svg" media-type="image/svg+xml"/>
-		<item href="images/illustration-85.svg" id="illustration-85.svg" media-type="image/svg+xml"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/a-brief-life-of-shakespeare.xhtml" id="a-brief-life-of-shakespeare.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/a-midsummer-nights-dream.xhtml" id="a-midsummer-nights-dream.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/alls-well-that-ends-well.xhtml" id="alls-well-that-ends-well.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/as-you-like-it.xhtml" id="as-you-like-it.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/a-midsummer-nights-dream.xhtml" id="a-midsummer-nights-dream.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/alls-well-that-ends-well.xhtml" id="alls-well-that-ends-well.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/as-you-like-it.xhtml" id="as-you-like-it.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/cymbeline.xhtml" id="cymbeline.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/cymbeline.xhtml" id="cymbeline.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/epigraph.xhtml" id="epigraph.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/frontispiece.xhtml" id="frontispiece.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/glossary.xhtml" id="glossary.xhtml" media-type="application/xhtml+xml" properties="glossary"/>
 		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/hamlet.xhtml" id="hamlet.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/hamlet.xhtml" id="hamlet.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/king-lear.xhtml" id="king-lear.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/loi.xhtml" id="loi.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/macbeth.xhtml" id="macbeth.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/measure-for-measure.xhtml" id="measure-for-measure.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/much-ado-about-nothing.xhtml" id="much-ado-about-nothing.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/othello.xhtml" id="othello.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/pericles.xhtml" id="pericles.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/king-lear.xhtml" id="king-lear.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/macbeth.xhtml" id="macbeth.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/measure-for-measure.xhtml" id="measure-for-measure.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/much-ado-about-nothing.xhtml" id="much-ado-about-nothing.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/othello.xhtml" id="othello.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/pericles.xhtml" id="pericles.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/preface.xhtml" id="preface.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/quotations-from-shakespeare.xhtml" id="quotations-from-shakespeare.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/romeo-and-juliet.xhtml" id="romeo-and-juliet.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/the-comedy-of-errors.xhtml" id="the-comedy-of-errors.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/the-merchant-of-venice.xhtml" id="the-merchant-of-venice.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/the-taming-of-the-shrew.xhtml" id="the-taming-of-the-shrew.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/the-tempest.xhtml" id="the-tempest.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/the-winters-tale.xhtml" id="the-winters-tale.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/timon-of-athens.xhtml" id="timon-of-athens.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/romeo-and-juliet.xhtml" id="romeo-and-juliet.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-comedy-of-errors.xhtml" id="the-comedy-of-errors.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-merchant-of-venice.xhtml" id="the-merchant-of-venice.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-taming-of-the-shrew.xhtml" id="the-taming-of-the-shrew.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-tempest.xhtml" id="the-tempest.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-winters-tale.xhtml" id="the-winters-tale.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/timon-of-athens.xhtml" id="timon-of-athens.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/twelfth-night.xhtml" id="twelfth-night.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/two-gentlemen-of-verona.xhtml" id="two-gentlemen-of-verona.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/twelfth-night.xhtml" id="twelfth-night.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/two-gentlemen-of-verona.xhtml" id="two-gentlemen-of-verona.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 	</manifest>
@@ -231,7 +138,6 @@
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="epigraph.xhtml"/>
-		<itemref idref="frontispiece.xhtml"/>
 		<itemref idref="preface.xhtml"/>
 		<itemref idref="a-brief-life-of-shakespeare.xhtml"/>
 		<itemref idref="halftitlepage.xhtml"/>
@@ -257,7 +163,6 @@
 		<itemref idref="alls-well-that-ends-well.xhtml"/>
 		<itemref idref="glossary.xhtml"/>
 		<itemref idref="quotations-from-shakespeare.xhtml"/>
-		<itemref idref="loi.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
