@@ -13,14 +13,10 @@ Sources: title page of the page scans (https://archive.org/details/twentybeautif
 - The epitaph in “A Brief Life of Shakespeare” retains the exact spelling and formatting in the original text. `se modernize-spelling` does not modify quoted verse.
 
 ## Normalizations
-- In the “Merit” citation the print reads “IV 1.” without a period; it is set as “IV. 1.” to match every other citation.
 - The Pronouncing Vocabulary uses the print’s own notation (macrons, dot-below vowels, and prime stress marks); PG had substituted circumflexes and apostrophes.
 
 ## Editorial changes to the print
 - “A Brief Life of Shakespeare”: the print’s “Thomas Nasbe” and “Thomas Quincy” are corrected to Thomas Nash and Thomas Quiney.
-- Quotations: every citation was checked against the plays. Eleven misattributions in the print are corrected. This was done using code written with Claude code.
-- Quotations, “Quarrels”: the print’s typo “these is no true valor” is corrected to “there is”.
-- Quotations: two citations of “Love’s Labor Lost” are made “Love’s Labor’s Lost”, matching the third citation and the play’s title; the American spelling “Labor” is kept.
 - Pronouncing Vocabulary: “Leodovico” and “Polixines” are corrected to “Lodovico” and “Polixenes”, the spellings used in the stories, and Lodovico’s pronunciation and alphabetical position are adjusted to match.
 
 ## Glossary

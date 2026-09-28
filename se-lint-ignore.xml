@@ -12,9 +12,4 @@
 			<reason>Four glossary entries have names identical to chapters. Those have been suffixed with -glossary to ensure uniqueness but that causes linting error x-019 since the ID no longer matches the term.</reason>
 		</ignore>
 	</file>
-	<file path="quotations-from-shakespeare.xhtml">
-		<ignore code="t-060">
-			<reason>Linter is incorrectly flagging lines from "King John" as the "Gospel of John".</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>

@@ -40,7 +40,7 @@
 		<meta property="schema:abstract">Retellings of Shakespeare’s plays for young readers.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/e-nesbit"&gt;E. Nesbit&lt;/a&gt; was an English writer who published numerous books for children. &lt;i&gt;Beautiful Stories from Shakespeare&lt;/i&gt; is a collection of short prose retellings of twenty of &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare’s&lt;/a&gt; plays. E. Nesbit condensed the stories to ensure they are understood by children and that children will find them entertaining. Some Shakespearean language is retained, but the emphasis is on the story.&lt;/p&gt;
-			&lt;p&gt;The American edition, edited by E. T. Roe, includes a short biography of Shakespeare, a pronunciation guide for names and a list of famous Shakespearean quotations grouped by theme.&lt;/p&gt;
+			&lt;p&gt;The American edition, edited by E. T. Roe, includes a short biography of Shakespeare and a pronunciation guide for names.&lt;/p&gt;
 		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1430</dc:source>
@@ -120,7 +120,6 @@
 		<item href="text/othello.xhtml" id="othello.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/pericles.xhtml" id="pericles.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/preface.xhtml" id="preface.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/quotations-from-shakespeare.xhtml" id="quotations-from-shakespeare.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/romeo-and-juliet.xhtml" id="romeo-and-juliet.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-comedy-of-errors.xhtml" id="the-comedy-of-errors.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-merchant-of-venice.xhtml" id="the-merchant-of-venice.xhtml" media-type="application/xhtml+xml"/>
@@ -162,7 +161,6 @@
 		<itemref idref="two-gentlemen-of-verona.xhtml"/>
 		<itemref idref="alls-well-that-ends-well.xhtml"/>
 		<itemref idref="glossary.xhtml"/>
-		<itemref idref="quotations-from-shakespeare.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
