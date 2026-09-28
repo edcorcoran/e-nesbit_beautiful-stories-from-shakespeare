@@ -37,6 +37,8 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="schema:genre">Children’s</meta>
+		<meta property="schema:genre">Shorts</meta>
+		<meta property="schema:additionalType">http://schema.org/Collection</meta>
 		<meta property="schema:abstract">Retellings of Shakespeare’s plays for young readers.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/e-nesbit"&gt;E. Nesbit&lt;/a&gt; was an English writer who published numerous books for children. &lt;i&gt;Beautiful Stories from Shakespeare&lt;/i&gt; is a collection of short prose retellings of twenty of &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare’s&lt;/a&gt; plays. E. Nesbit condensed the stories to ensure they are understood by children and that children will find them entertaining. Some Shakespearean language is retained, but the emphasis is on the story.&lt;/p&gt;
