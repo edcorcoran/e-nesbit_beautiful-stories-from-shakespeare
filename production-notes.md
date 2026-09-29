@@ -14,6 +14,6 @@ Sources: title page of the page scans (https://archive.org/details/twentybeautif
 ## Editorial changes to the print
 - “A Brief Life of Shakespeare”: the print’s “Thomas Nasbe” and “Thomas Quincy” are corrected to Thomas Nash and Thomas Quiney.
 
-## Reference in preface to removed material
-- The preface, written by the editor, refers to the pronouncing vocabulary and quotations sections that have been removed. That paragraph (below) could be otherwise removed, but that is an editorial decision.
+## Paragraph removed in preface
+- The preface, written by the editor, refers to the pronouncing vocabulary and quotations sections that have been removed. That paragraph (below) has been removed.
 > And that the youngest readers may not stumble in pronouncing any unfamiliar names to be met with in the stories, the editor has prepared and included in the volume a Pronouncing Vocabulary of Difficult Names. To which is added a collection of Shakespearean Quotations, classified in alphabetical order, illustrative of the wisdom and genius of the world’s greatest dramatist.
