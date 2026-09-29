@@ -44,18 +44,6 @@ section[epub|type~="epigraph"] > *{
 }
 /* End full-page epigraphs */
 
-dl{
-	margin: 1em 0;
-}
-
-dd{
-	margin-left: 40px;
-}
-
-dd + dt{
-	margin-top: 1em;
-}
-
 /* Poetry, verse, and songs */
 [epub|type~="z3998:poem"] p,
 [epub|type~="z3998:song"] p,
